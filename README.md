@@ -54,5 +54,5 @@ This project applies fundamental computer science and game development concepts:
 ```text
 ├── LICENSE          # MIT License documentation
 ├── README.md        # Project documentation (this file)
-├── Space Dodger.html# Playable standalone web version (via TurboWarp) deployed on GitHub Pages
-└── Space Dodger.sb3 # Raw source file containing block scripts and assets
+├── index.html       # Playable standalone web version (via TurboWarp) deployed on GitHub Pages
+└── Space-Dodger.sb3 # Raw source file containing block scripts and assets
