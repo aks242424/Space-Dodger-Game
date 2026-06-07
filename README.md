@@ -3,7 +3,7 @@
 An action-packed, arcade-style space shooter built using MIT Scratch blocks. Take control of a powerful spaceship, blast through waves of incoming comets, and upgrade your ship to survive the deep cosmic void.
 
 ## 🔗 Project Links
-* **▶️ Play Live Browser Version:** [Click here to play Space Dodger](https://aks242424.github.io/Space-Dodger-Game/Space%20Dodger.html)
+* **▶️ Play Live Browser Version:** [Click here to play Space Dodger](https://aks242424.github.io/Space-Dodger-Game/)
 * **🌐 MIT Scratch Platform:** [View Original Project Page](https://scratch.mit.edu/projects/1328673826)
 
 ---
